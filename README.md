@@ -112,8 +112,8 @@ Work Experience
 Contact Me
 ----------
 
-  [My Portfolio]  
-  [My Portfolio]  
+  [Personal Website]  
+  [Personal Website]  
   [LinkedIn]  
   [LinkedIn]  
   [Twitter]  
@@ -127,7 +127,7 @@ Contact Me
   [MoveMe App]: http://www.lorraine-phillips.com/projects/moveme/index.html
   [LuckyCarmz Music]: http://www.lorraine-phillips.com/projects/luckycarmz/index.html
   [Print design portfolio]: http://www.lorraine-phillips.com/lorraine-phillips-design.html
-  [My Portfolio]: http://www.lorraine-phillips.com
+  [Personal Website]: http://www.lorraine-phillips.com
   [LinkedIn]: https://www.linkedin.com/in/lorrainephillips
   [Twitter]: https://twitter.com/lorraine_phill
   [Email: email(at)lorraine-phillips(dot)com]: mailto:email@lorraine-phillips.com
