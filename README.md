@@ -1,14 +1,14 @@
 Lorraine Phillips
 =================
 
-I'm a ceative information technology professional with over twelve years experience in designing, developing and publishing print, internet and digital projects. I am looking for a position where I can use my front-end web development and design skills in the production and maintenance of mobile and web-based applications. Visit my [GitHub] repository.
+I'm a creative information technology professional with over twelve years experience in designing, developing and publishing print, internet and digital projects. I am currently looking for a position where I can use my front-end web development and design skills in the production and maintenance of mobile and web-based applications. Visit my [GitHub] repository.
 
 Code Examples
 -------------
 
 | [360 Life] | [MoveMe App] | [LuckyCarmz Music] |
 |:---------- |:------------ |:------------------ |
-| Collaborated with [Deniss Bohanovs] and [Martin van de Loo] on a Rails MVP project that was completed within 10 days. The goal of the project was to move a popular paper-based "wheel of life" tool (used by life coaches and motivational trainers) to a digitized version that would be generated through the completion of an online questonnaire. Primary technologies included Rails 4.0, Ruby 2.0 and D3.js library. | Fully responsive website built using Bootstrap 3. The site utilizes Bootstrap’s grid system (containers, nested columns, offsets etc.), form features, nav bar features, dropdowns, buttons, toggable tabs, modals, tooltips, the accordion, carousel, thumbnails and glyphicons. | Fully responsive web design for an up-and-coming producer out of Miami hand-built from scratch using Photoshop, HTML5, CSS3, JavaScript and jQuery.|
+| Collaborated with [Deniss Bohanovs] and [Martin van de Loo] on a Rails MVP project that was completed within 10 days. The goal of the project was to move a popular paper-based "wheel of life" tool (used by life coaches and motivational trainers) to a digitized version that would be generated through the completion of an online questionnaire. Primary technologies included Rails 4.0, Ruby 2.0 and D3.js library. | Fully responsive website built using Bootstrap 3. The site utilizes Bootstrap’s grid system (containers, nested columns, offsets etc.), form features, nav bar features, dropdowns, buttons, toggable tabs, modals, tooltips, the accordion, carousel, thumbnails and glyphicons. | Fully responsive web design for an up-and-coming producer out of Miami hand-built from scratch using Photoshop, HTML5, CSS3, JavaScript and jQuery.|
 
 
 Print Design Portfolio
@@ -109,8 +109,8 @@ Work Experience
   - Mentored analysts on testing processes, methodologies and procedures.
   - Organized and prepared test deliverables for client for sign-off.
 
-Contact
--------
+Contact Me
+----------
 
   [My Portfolio]  
   [My Portfolio]  
