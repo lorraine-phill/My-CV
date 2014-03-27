@@ -97,7 +97,7 @@ Work Experience
   - Designed and created copy for the monthly newsletter as well as other email 
     marketing and promotional campaigns.
 
-### Accenture LTD / AT&T
+### Accenture / AT&T
 **Software Quality Assurance Lead** Feb 01&mdash;Oct 04
 
   - Tested web-based applications and sites for design, flow, consistency, 
