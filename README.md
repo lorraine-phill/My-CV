@@ -13,7 +13,7 @@ Code Examples
 
 Print Design Portfolio
 ----------------------
-I enjoy clean, clear, contemporary and effective design. My favorite tools of choice include Photoshop, Illustrator and InDesign.
+I enjoy clean, clear, contemporary and effective design. My favourite tools of choice include Photoshop, Illustrator and InDesign.
 
 [Print design portfolio]
 
