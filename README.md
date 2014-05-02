@@ -56,7 +56,7 @@ Work Experience
 ---------------
 
 ### LP Interactive
-**Freelance Web Developer And Designer** Jun 13&mdash;Present
+**Freelance Web Developer And Designer** June 13&mdash;Present
 
   - Design and develop rich, interactive fully functional W3C compliant websites using HTML5, CSS3,
     JavaScript, jQuery and Photoshop.
